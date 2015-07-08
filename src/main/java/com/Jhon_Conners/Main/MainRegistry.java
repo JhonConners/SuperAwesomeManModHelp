@@ -1,0 +1,31 @@
+package com.Jhon_Conners.Main;
+
+
+import com.Jhon_Conners.item.Mitems;
+import com.Jhon_Conners.lib.RefStrings;
+
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.Mod.EventHandler;
+import cpw.mods.fml.common.SidedProxy;
+import cpw.mods.fml.common.event.FMLInitializationEvent;
+import cpw.mods.fml.common.event.FMLPostInitializationEvent;
+import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+
+@Mod (modid = RefStrings.MODID , name = RefStrings.NAME , version = RefStrings.VERSION )
+public class MainRegistry {
+
+	@SidedProxy(clientSide = RefStrings.CLIENTSIDE , serverSide = RefStrings.SERVERSIDE)
+	public static ServerProxy proxy;
+	
+	@EventHandler
+	public static void PreLoad(FMLPreInitializationEvent PreEvent){
+		Mitems.mainRegistry();
+		proxy.registerRenderInfo();
+	}@EventHandler
+	public static void Load(FMLInitializationEvent event){
+		
+	}@EventHandler
+	public static void PostLoad(FMLPostInitializationEvent PostEvent){
+		
+	}
+}

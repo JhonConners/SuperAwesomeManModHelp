@@ -1,0 +1,29 @@
+[17:49:40] [main/INFO]: Setting user: Player382
+[17:49:42] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:49:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:OP Armor Weapons And Tools
+[17:49:49] [Sound Library Loader/INFO]: Sound engine started
+[17:49:50] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[17:49:50] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[17:49:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:OP Armor Weapons And Tools
+[17:49:51] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:49:51] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:49:52] [Sound Library Loader/INFO]: Sound engine started
+[17:50:19] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[17:50:19] [Server thread/INFO]: Generating keypair
+[17:50:20] [Server thread/INFO]: Preparing start region for level 0
+[17:50:21] [Server thread/INFO]: Changing view distance to 12, from 10
+[17:50:22] [Server thread/INFO]: Player382[local:E:a764f9d3] logged in with entity id 364 at (766.6992013117962, 4.0, 824.0166475264988)
+[17:50:22] [Server thread/INFO]: Player382 joined the game
+[17:50:24] [Server thread/INFO]: Player382 has just earned the achievement [Taking Inventory]
+[17:50:24] [Client thread/INFO]: [CHAT] Player382 has just earned the achievement [Taking Inventory]
+[17:50:32] [Server thread/INFO]: Saving and pausing game...
+[17:50:33] [Server thread/INFO]: Saving chunks for level 'Mod test'/Overworld
+[17:50:33] [Server thread/INFO]: Saving chunks for level 'Mod test'/Nether
+[17:50:33] [Server thread/INFO]: Saving chunks for level 'Mod test'/The End
+[17:50:33] [Server thread/INFO]: Stopping server
+[17:50:33] [Server thread/INFO]: Saving players
+[17:50:33] [Server thread/INFO]: Saving worlds
+[17:50:33] [Server thread/INFO]: Saving chunks for level 'Mod test'/Overworld
+[17:50:33] [Server thread/INFO]: Saving chunks for level 'Mod test'/Nether
+[17:50:33] [Server thread/INFO]: Saving chunks for level 'Mod test'/The End
+[17:50:34] [Client thread/INFO]: Stopping!
